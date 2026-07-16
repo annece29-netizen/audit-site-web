@@ -10,7 +10,13 @@ Deux modes disponibles :
 
 ## Installer avec Claude Code
 
-Colle ce message dans une conversation Claude Code :
+Deux formats possibles pour installer ce skill : le nouveau format (recommandé) ou l'ancien (fonctionne toujours, considéré comme legacy).
+
+**Format recommandé** — colle ce message dans une conversation Claude Code :
+
+> Récupère le contenu de https://raw.githubusercontent.com/annece29-netizen/audit-site-web/master/audit-site-web.md et crée le fichier `SKILL.md` avec ce contenu dans mon dossier `~/.claude/skills/audit-site-web/` (le créer s'il n'existe pas).
+
+**Ancien format (legacy, fonctionne toujours)** — colle ce message dans une conversation Claude Code :
 
 > Récupère le contenu de https://raw.githubusercontent.com/annece29-netizen/audit-site-web/master/audit-site-web.md et crée le fichier `audit-site-web.md` avec ce contenu dans mon dossier `~/.claude/commands/` (le créer s'il n'existe pas).
 
