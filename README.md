@@ -12,7 +12,7 @@ Deux modes disponibles :
 
 Colle ce message dans une conversation Claude Code :
 
-> Récupère le contenu de https://raw.githubusercontent.com/annece29-netizen/audit-site-web/main/audit-site-web.md et crée le fichier `audit-site-web.md` avec ce contenu dans mon dossier `~/.claude/commands/` (le créer s'il n'existe pas).
+> Récupère le contenu de https://raw.githubusercontent.com/annece29-netizen/audit-site-web/master/audit-site-web.md et crée le fichier `audit-site-web.md` avec ce contenu dans mon dossier `~/.claude/commands/` (le créer s'il n'existe pas).
 
 Une fois fait, tape `/audit-site-web` dans une conversation pour l'utiliser.
 
